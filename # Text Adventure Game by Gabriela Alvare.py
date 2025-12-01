@@ -1,3 +1,4 @@
+
 # Text Adventure Game by Gabriela Alvarez
 
 def show_instructions():
@@ -85,5 +86,3 @@ while True:
     if "gold" in inventory and "boat" in inventory:
         print("\nYou sail away with your gold — you win! 🏆")
         break
-
-
